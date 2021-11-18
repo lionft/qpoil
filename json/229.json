@@ -1,0 +1,50 @@
+{
+  "name": "Scool #229",
+  "symbol": "oo",
+  "description": "description of your collection",
+  "seller_fee_basis_points": 200,
+  "image": "image.png",
+  "external_url": "skool.digital",
+  "edition": 229,
+  "attributes": [
+    {
+      "trait_type": "back",
+      "value": "13"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "4"
+    },
+    {
+      "trait_type": "skool",
+      "value": "2"
+    },
+    {
+      "trait_type": "sunglasses",
+      "value": "5"
+    },
+    {
+      "trait_type": "head accessorie",
+      "value": "22"
+    }
+  ],
+  "collection": {
+    "name": "Legstival",
+    "family": "Legstival"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "image.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "GQNZQKoQimeXTG2B2Fok4ooDY8Ns8cimL9xSTaDoBFsw",
+        "share": 100
+      }
+    ]
+  }
+}
